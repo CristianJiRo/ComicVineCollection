@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComicCollection</string>
+    <string name="action_update">Update</string>
+</resources>
